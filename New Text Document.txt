@@ -1,0 +1,7 @@
+Example is Avocado Price prediction
+
+task is to make a model that can consider the data provided and predict the Average Price.
+
+
+https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction
+
